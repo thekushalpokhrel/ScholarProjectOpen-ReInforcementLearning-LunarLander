@@ -120,6 +120,6 @@ See a visual representation of the training process in this video: [Training Vid
 This repository equips you with the tools and knowledge to embark on a rewarding journey into Deep Q-Learning and Lunar Lander mastery. Feel free to reach out to online resources or join relevant communities if you have further questions. We encourage you to experiment, learn, and refine your approach to train an agent that can achieve spectacular lunar landings!
 
 **Additional Resources:**
-
+- Medium Blog: https://medium.com/gopenai/solving-reinforcement-learning-problem-learning-lunar-landing-2aa2ebfec0c0
 - OpenAI Gym Documentation: [https://www.gymlibrary.dev/](https://www.gymlibrary.dev/)
 - Deep Q-Learning Paper: [https://www.researchgate.net/publication/272837232_Human-level_control_through_deep_reinforcement_learning](https://www.researchgate.net/publication/272837232_Human-level_control_through_deep_reinforcement_learning)
