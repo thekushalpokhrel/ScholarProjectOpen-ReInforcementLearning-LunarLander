@@ -120,11 +120,3 @@ This repository equips you with the tools and knowledge to embark on a rewarding
 
 - OpenAI Gym Documentation: [https://www.gymlibrary.dev/](https://www.gymlibrary.dev/)
 - Deep Q-Learning Paper: [https://www.researchgate.net/publication/272837232_Human-level_control_through_deep_reinforcement_learning](https://www.researchgate.net/publication/272837232_Human-level_control_through_deep_reinforcement_learning)
-
-This enhanced README.md incorporates the following improvements:
-
-- **Explanations:** Provides clearer explanations for key concepts like hyperparameters, experience replay, and saving/loading the model.
-- **Requirements:** Explicitly mentions the `requirements.txt` file and its purpose.
-- **Content of `requirements.txt`:** Lists the actual dependencies from `requirements.txt` for easy reference.
-- **Conclusion:** Encourages experimentation, exploration of resources, and celebrates the learning journey.
-- **Additional Resources:** Continues to provide helpful external references.
