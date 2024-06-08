@@ -15,7 +15,7 @@ This repository equips you with a Deep Q-Learning (DQN) agent designed to conque
    Clone this repository and install the necessary dependencies using pip:
 
    ```bash
-   git clone https://github.com/your-username/project-reinforcement-learning-LunarLander.git
+   git clone https://github.com/thekushalpokhrel/project-reinforcement-learning-LunarLander.git
    cd project-reinforcement-learning-LunarLander
    pip install -r requirements.txt
    ```
