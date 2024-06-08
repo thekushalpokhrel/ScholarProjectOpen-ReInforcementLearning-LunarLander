@@ -111,6 +111,9 @@ Werkzeug==3.0.3
 wrapt==1.16.0
 zipp==3.19.0
 ```
+**Training Visualization:**
+
+See a visual representation of the training process in this video: [Training Video]: https://youtu.be/BNGUH4jAHYg
 
 **Conclusion**
 
