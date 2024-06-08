@@ -6,20 +6,21 @@
 
 ### Prerequisites:
 
-Python 3.x
-TensorFlow 2.x
-NumPy
-OpenAI Gym (https://www.gymlibrary.dev/)
-Installation:
+# Python 3.x
+# TensorFlow 2.x
+# NumPy
+# OpenAI Gym (https://www.gymlibrary.dev/)
+
+# Installation:
 Clone this repository and install the required packages using pip:
 
-Bash
-git clone https://github.com/your-username/lunar-lander-dqn.git
-cd lunar-lander-dqn
+## Bash
+git clone scholar-project-ReinforcementLearning-Learning-Lunar-Landing-Gymnasium.git
+cd scholar-project-ReinforcementLearning-Learning-Lunar-Landing-Gymnasium
 pip install -r requirements.txt
-Use code with caution.
-content_copy
-Running the Training:
+
+
+### Running the Training:
 
 ### Execute the train.py script to start the training process:
 
