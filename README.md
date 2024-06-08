@@ -1,4 +1,4 @@
-# project-reinforcement-learning-LunarLander
+# ScholarProjectOpen-ReInforcementLearning-LunarLander
 
 This repository equips you with a Deep Q-Learning (DQN) agent designed to conquer the challenging Lunar Lander environment from OpenAI Gym. Your mission: to train a model that can skillfully land the lunar lander on the moon's surface, minimizing fuel consumption in the process.
 
@@ -15,7 +15,7 @@ This repository equips you with a Deep Q-Learning (DQN) agent designed to conque
    Clone this repository and install the necessary dependencies using pip:
 
    ```bash
-   git clone https://github.com/thekushalpokhrel/project-reinforcement-learning-LunarLander.git
+   git clone https://github.com/thekushalpokhrel/ScholarProjectOpen-ReInforcementLearning-LunarLander.git
    cd project-reinforcement-learning-LunarLander
    pip install -r requirements.txt
    ```
@@ -122,4 +122,4 @@ This repository equips you with the tools and knowledge to embark on a rewarding
 **Additional Resources:**
 - Medium Blog: https://medium.com/gopenai/solving-reinforcement-learning-problem-learning-lunar-landing-2aa2ebfec0c0
 - OpenAI Gym Documentation: [https://www.gymlibrary.dev/](https://www.gymlibrary.dev/)
-- Deep Q-Learning Paper: [https://www.researchgate.net/publication/272837232_Human-level_control_through_deep_reinforcement_learning](https://www.researchgate.net/publication/272837232_Human-level_control_through_deep_reinforcement_learning)
+- Deep Q-Learning Paper: (https://www.researchgate.net/publication/272837232_Human-level_control_through_deep_reinforcement_learning)
