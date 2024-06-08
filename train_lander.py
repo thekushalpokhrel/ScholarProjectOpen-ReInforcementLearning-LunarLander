@@ -6,7 +6,7 @@ from collections import deque
 import random
 
 # Initialize the environment
-env = gym.make('LunarLander-v2' rendermode="human")
+env = gym.make('LunarLander-v2' render_mode="human")
 
 # Define the neural network model
 def create_q_model():
