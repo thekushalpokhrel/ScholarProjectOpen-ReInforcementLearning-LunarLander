@@ -6,29 +6,24 @@
 
 ### Prerequisites:
 
-# Python 3.x
-# TensorFlow 2.x
-# NumPy
-# OpenAI Gym (https://www.gymlibrary.dev/)
+## Python 3.x
+## TensorFlow 2.x
+## NumPy
+## OpenAI Gym (https://www.gymlibrary.dev/)
 
 # Installation:
 Clone this repository and install the required packages using pip:
 
-## Bash
+### Bash
 git clone scholar-project-ReinforcementLearning-Learning-Lunar-Landing-Gymnasium.git
 cd scholar-project-ReinforcementLearning-Learning-Lunar-Landing-Gymnasium
 pip install -r requirements.txt
 
-
 ### Running the Training:
 
-### Execute the train.py script to start the training process:
+### Execute the train script to start the training process:
 
-Bash
-python train.py
-Use code with caution.
-content_copy
-Project Overview
+# Project Overview
 
 ### This project explores DQN, a powerful reinforcement learning technique. Here's a breakdown of the key components:
 
